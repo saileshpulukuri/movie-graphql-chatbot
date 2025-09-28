@@ -243,8 +243,5 @@ Visit `http://localhost:5000/graphql` in your browser to access the GraphQL play
 - **HTTP Client**: Requests library
 - **Environment**: Python-dotenv
 
-## 👨‍💻 Author
-
-Created as part of CS5200 Assignment - GraphQL CRUD Operations with LLM Integration
 
 
